@@ -1,2 +1,15 @@
-# Risk-intelligence-Dashboard-HR-Inspection-compliance
-This project is a Compliance &amp; Risk Intelligence Dashboard built to help organizations monitor, track, and analyze regulatory inspections, compliance status, and risk exposure in real-time. It enables decision-makers to identify compliance gaps, assess risk trends, and take proactive corrective actions.
+# Compliance Monitoring and Risk Dashboard
+
+## Objective
+To build a business-ready dashboard that monitors regulatory compliance (e.g., NIST, GDPR, CMMC) using SQL and Power BI, supported by automation-ready logic and risk scoring models.
+
+## Stack
+- SQL (for querying mock compliance logs)
+- Power BI (dashboard and risk scoring visuals)
+- Python (optional automation logic)
+- Excel/Google Sheets (data prep or sanity checks)
+
+## Outcomes
+- End-to-end demo of compliance awareness
+- Demonstrated skill in Power BI + SQL + storytelling
+- Risk scoring and automation-ready insights
